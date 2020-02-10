@@ -1,5 +1,10 @@
 This is the folder for data.
 
+Download the zip file and unzip it here:
+
+[Google Drive](https://drive.google.com/file/d/1hU2Vzd5aC1eApSynyG_5PVsAKyO8Yopq/view?usp=sharing)
+[Baidu Yun](https://pan.baidu.com/s/1lnzbk0OmT7A4fjO3xjkdEw) (Access code: esw4)
+
 Dataset list:
 * ARDIS: ARDIS_train_test.npz
 * BanglaLekha-Isolated: BanglaLekha_train_test.npz
